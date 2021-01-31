@@ -1,20 +1,26 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: $PROD
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+![](/static/img/frame-12.png)
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+### What is **Produce**?
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Produce is a token-gated social community on a [private Discord server](https://discord.gg/UHuSKZ66MC). It's about a lot of things, but especially music production and the music industry.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+### How do I join?
 
-Or click the button below to deploy your own copy of this project to Netlify.
+To join you'll need to hold between 30 tokens (GA) and 70 tokens (On the List). *These can be purchased on Uniswap (coming soon).*
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+### What's the point?
+
+We want to create a vibrant community that provides a place for both beginners and entrenched vets to access industry knowledge, production tips, and opportunities (with some additional insight on navigating web3 as a musician). The financial incentive is real, too. With more interest and more purchases, the token will increase in value for holders. Likely, the token will additionally become a governance tool to run initiatives, with ideas ranging from covering costs to pressing a vinyl compilation being discussed.
+
+### Okay, I'm ready.
+
+Rad! [Join us](https://discord.gg/UHuSKZ66MC).
