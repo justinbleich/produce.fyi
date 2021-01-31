@@ -1,8 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: #0C0C0C;
-	--text: #FCFCFC;
+	--background: #fcfcfc;
 }
 
 *, *:before, *:after {
@@ -114,11 +113,6 @@ header nav li a[href]:not(:hover) {
 
 header nav li a[data-current="current item"] {
 	background-color: white;
-}
-
-/* Text Color */
-h1, h2, h3, h4, h5, h6, p {
-	color: var(--text);
 }
 
 /* Posts List */
