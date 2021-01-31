@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/static/img/frame-12.png)
+![$prod token](/static/img/frame-12.png)
 
 ### What is **Produce**?
 
