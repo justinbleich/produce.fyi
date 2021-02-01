@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ### What is **Produce**?
 
-Produce is a token-gated social community on a [private Discord server](https://discord.gg/UHuSKZ66MC). It's a community built around music production and the music industry.
+Produce is a token-gated social community on a [private Discord server](https://discord.gg/UHuSKZ66MC), built around music production and the music industry.
 
 ### How do I join?
 
